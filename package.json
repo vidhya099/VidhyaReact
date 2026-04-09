@@ -1,0 +1,32 @@
+{
+  "name": "vidhyareact",
+  "version": "1.0.0",
+  "description": "React samples for learning",
+  "default": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vidhya099/VidhyaReact.git"
+  },
+  "keywords": [
+    "React",
+    "Vidhya",
+    "Goutham",
+    "VidhyaReact"
+  ],
+  "author": "Vidhya Goutham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vidhya099/VidhyaReact/issues"
+  },
+  "homepage": "https://github.com/vidhya099/VidhyaReact#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
